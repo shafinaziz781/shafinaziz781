@@ -11,23 +11,23 @@ I’ve worked on multiple projects, with a focus on building practical and meani
 
 If you're interested in collaborating or working together, feel free to reach out.
 
-🛠**What I Do**
+🛠 **What I Do**
 
  •	Build responsive and user-focused web applications.  
  •	Design clean and structured user interfaces.  
  •	Optimize performance and user experience.  
  •	Turn ideas into functional and meaningful digital products.  
 
-📫**Contact**
+📫 **Contact**
 
   💼 Open for opportunities 
  
   📧 Email: shafinaziz781@gmail.com 
 
-  💼 LinkedIn: linkedin.com/in/shafin-aziz
+  💼 LinkedIn: https://www.linkedin.com/in/shafin-aziz-316333392/
 
  
-👉**Fun Facts:**
+👉 **Fun Facts:**
 
  •	I enjoy building and exploring new ideas  
  •	Always focused on growth and improvement  
