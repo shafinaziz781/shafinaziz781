@@ -18,8 +18,11 @@ If you're interested in collaborating or working together, feel free to reach ou
 •	Turn ideas into functional and meaningful digital products.  
 
 📫 **Contact**
+
  💼 Open for opportunities 
+ 
  📧 Email: shafinaziz781@gmail.com 
+ 
  
 **Fun Facts:**
 •	I enjoy building and exploring new ideas  
